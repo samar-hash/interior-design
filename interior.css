@@ -1,0 +1,120 @@
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #ff3c3c !important;
+  background-color: #fff !important;
+}
+.navbar-default .navbar-toggle icon-bar  {
+  border-color: transparent;
+  color: white !important;
+}
+.bg-1{
+    background-color:#ff3c3c;
+    height:30%;
+    width:100%;
+    color:white;
+    font-family: Montserrat, sans-serif;  
+}
+.bg-1 span
+{
+  padding-right:20px;
+  margin-bottom: 30px;
+  background-color:#ffcf0f;
+  border:7px;
+  float:right;
+  display: block;
+  
+}
+.bg-1 h2
+{  margin:5px 5px 0 0;
+   padding-left:40px;
+   font-size: 20px;
+}
+.bg-1 p
+{
+  padding-top:5px;
+  font-size:18px;
+}
+.carousel .item{
+    height:600px;
+}
+.x{
+    margin-top:0;
+}
+.x h1
+{
+    color:#ff3c3c;
+    font-family:sans-serif; 
+}
+.x hr
+{
+    margin-top: 0;
+    margin-left:5px;
+    border-radius:5px;
+}
+.q hr{
+    margin-top: 0;
+    margin-left:5px;
+    border-radius:5px;
+}
+.q h1{
+  color:#ff3c3c;
+    font-family:sans-serif; 
+}
+.q p{
+  margin-top: 15px;
+}
+.btn btn-danger{
+  color:#ff3c3c;
+}
+.mm
+{
+  margin-top: 30px;
+}
+.mm h1
+{
+  color:#ff3c3c;
+}
+.mm hr
+{
+   margin-top: 0;
+    margin-left:5px;
+    border-radius:5px;
+}
+.mm .xx .jumbotron
+{
+  width: 60%;
+  height: 40%;
+}
+.yy hr{
+  margin-top: 0;
+    margin-left:5px;
+    border-radius:5px;
+}
+.yy h1{
+  color:#ff3c3c;
+}
+.panel-footer .btn
+{
+   background-color:#ff3c3c ;
+  color: #fff;
+}
+.cc hr
+{
+  margin-top: 0;
+    margin-left:5px;
+    border-radius:5px;
+}
+.cc h1
+{
+    color:#ff3c3c;
+}
+.opo
+{
+  width:100%;
+  padding-top:40px;
+  background-color:#ff3c3c;
+  color:#fff;
+}
+.opo .lolo
+{
+  font-size:30px;
+}
